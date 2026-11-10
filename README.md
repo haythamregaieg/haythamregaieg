@@ -9,7 +9,7 @@
 
 **🎓 Élève ingénieur en informatique | 🤖 Passionné par l'IA**
 
-📍 **Lyon, France** &nbsp; | &nbsp; 🎓 **CESI Lyon | IIT Sfax**
+📍 **Lyon, France** &nbsp; | &nbsp; 🎓 **CESI Lyon**
 
 🎯 **À la recherche d'un stage de fin d'études de 6 mois dès février 2027**
 
