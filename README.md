@@ -6,7 +6,7 @@
 
 **Élève ingénieur en informatique · Développeur Full-Stack · Passionné par l'IA**
 
-📍 Lyon, France &nbsp; | &nbsp; 🎓 CESI Lyon × IIT Sfax  
+📍 Lyon, France &nbsp; | &nbsp; 🎓 CESI Lyon  
 🎯 **Recherche un stage de fin d'études de 6 mois dès février 2027**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Échanger-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haythamregaieg/)
